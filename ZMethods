@@ -1,0 +1,14 @@
+Classe Cliente:
+Validar quantidade de digitos CPF
+Validar idade acima de 18 anos
+Validar carteira com saldo
+
+Classe Compras:
+Validar preço produto acima de R$00,00
+Validar quantidade acima de R$00,00
+Validar valor para a compra.
+
+Classe Produto:
+Validar estoque maior que 0.
+Validar cliente com saldo.
+Verificar calculo de custo (Valor unitario - Custo Produção)
